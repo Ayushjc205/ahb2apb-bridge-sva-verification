@@ -1,4 +1,4 @@
-# AMBA Protocols - AHB2APB Bridge
+# AHB2APB Bridge SV
 
 This repository contains **SystemVerilog implementations and verification** of **AMBA (Advanced Microcontroller Bus Architecture)** protocols, currently an **AHB-to-APB bridge**
 widely used in SoCs for connecting high-performance and peripheral devices.
