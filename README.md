@@ -3,6 +3,8 @@
 This repository contains **SystemVerilog implementations and verification** of **AMBA (Advanced Microcontroller Bus Architecture)** protocols, currently an **AHB-to-APB bridge**
 widely used in SoCs for connecting high-performance and peripheral devices.
 
+<img width="1821" height="513" alt="waveform" src="https://github.com/user-attachments/assets/d86f37a8-853b-4578-a61c-b75a11e5b387" />
+
 ---
 
 ![AMBA System](simls/amba_system.png)
